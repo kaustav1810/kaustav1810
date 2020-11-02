@@ -23,9 +23,10 @@
 </a>
 
 
-<a href="https://github.com/Youngwolf1810/blogApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Youngwolf1810&repo=blogApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Youngwolf1810/Restaurant-review-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Youngwolf1810&repo=Restaurant-review-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
 <!-- Actual text -->
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
