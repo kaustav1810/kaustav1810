@@ -11,20 +11,20 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Youngwolf1810/Youngwolf1810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngwolf1810&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kaustav1810/kaustav1810">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Youngwolf1810/Youngwolf1810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Youngwolf1810&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Youngwolf1810/eCommerceApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Youngwolf1810&repo=eCommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kaustav1810/kaustav1810">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav1810&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<a href="https://github.com/kaustav1810/eCommerceApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=eCommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<a href="https://github.com/Youngwolf1810/Restaurant-review-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Youngwolf1810&repo=Restaurant-review-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/kaustav1810/Restaurant-review-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Restaurant-review-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- Actual text -->
