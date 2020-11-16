@@ -24,9 +24,6 @@
 [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br/>
-<br/>
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -41,6 +38,7 @@
 
   [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars)](https://github.com/kaustav1810/github-readme-stats)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810)](https://github.com/kaustav1810/github-readme-stats)
 
 [website]: https://kaustav-blog.netlify.app/
 [twitter]: https://twitter.com/kaustav1810
