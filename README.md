@@ -41,9 +41,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kaustav's GitHub Stats" src="https://github-readme-stats.kaustav1810.vercel.app/api?username=kaustav1810&show_icons=true&hide_border=true" />
-
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
 
 [website]: https://kaustav-blog.netlify.app/
