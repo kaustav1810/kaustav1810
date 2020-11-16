@@ -22,7 +22,7 @@
 [<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
 
 ### 📕 Latest Blog Posts
 
@@ -37,7 +37,7 @@
 ---
 
   [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars)](https://github.com/kaustav1810/github-readme-stats)
-  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=github-readme-stats)](https://github.com/kaustav1810/Restaurant-review-website)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810)](https://github.com/kaustav1810/github-readme-stats)
 
 [website]: https://kaustav-blog.netlify.app/
