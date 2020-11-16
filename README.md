@@ -38,7 +38,7 @@
 
   [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars)](https://github.com/kaustav1810/github-readme-stats)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Retaurant-review-website)](https://github.com/kaustav1810/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810)](https://github.com/kaustav1810/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://kaustav-blog.netlify.app/
 [twitter]: https://twitter.com/kaustav1810
