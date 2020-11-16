@@ -1,41 +1,53 @@
-### Hi there I am Kaustav.I am a software engineer by profession and love to build my own projects by night.I have a keen intereset in frontend technologies.👋
+### Hi there, I'm Kaustav! I am a software engineer by day and like to build my own stuff by the night! 👋
 
-![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kaustav-blog.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Kaustav1810)
 
+### Connect with me:
 
+[<img align="left" alt="kaustav1810.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-## &#x1f4c8; GitHub Stats
+[<img align="left" alt="kaustav1810 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<a href="https://github.com/kaustav1810/kaustav1810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/kaustav1810/kaustav1810">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav1810&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+[<img align="left" alt="kaustav1810 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<a href="https://github.com/kaustav1810/eCommerceApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=eCommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<br />
 
+### Languages and Tools:
 
-<a href="https://github.com/kaustav1810/Restaurant-review-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Restaurant-review-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 
-<!-- Actual text -->
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
-<!-- Icons -->
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<!-- Links to your social media accounts -->
+<br />
+<br />
 
-[1]: https://twitter.com/kaustav1810
-[2]: https://www.linkedin.com/in/kaustav1810
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Beginner's guide to programming](https://kaustav-blog.netlify.app/02-11-20/)
+- [Online courses vs building projects](https://kaustav-blog.netlify.app/13-09-20/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://kaustav-blog.netlify.app/blogs)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Kaustav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaustav1810&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://kaustav-blog.netlify.app/
+[twitter]: https://twitter.com/kaustav1810
+[linkedin]: https://linkedin.com/in/kaustav1810
