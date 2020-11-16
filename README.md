@@ -39,7 +39,7 @@
 
 ---
 
-  [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true)](https://github.com/kaustav1810/github-readme-stats)
+  [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars)](https://github.com/kaustav1810/github-readme-stats)
   
 
 [website]: https://kaustav-blog.netlify.app/
