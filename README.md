@@ -39,11 +39,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true)](https://github.com/kaustav1810/github-readme-stats)
   
-</details>
 
 [website]: https://kaustav-blog.netlify.app/
 [twitter]: https://twitter.com/kaustav1810
