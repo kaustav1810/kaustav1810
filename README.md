@@ -26,9 +26,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Beginner's guide to programming](https://kaustav-blog.netlify.app/02-11-20/)
-- [Online courses vs building projects](https://kaustav-blog.netlify.app/13-09-20/)
+- [Beginners guide to programming](https://dev.to/kaustav1810/beginners-guide-to-programming-3aae)
+- [Building Projects vs Doing the next online course.What should You Do?](https://dev.to/kaustav1810/building-projects-vs-doing-the-next-online-course-what-should-you-do-1d9i)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kaustav-blog.netlify.app/blogs)
