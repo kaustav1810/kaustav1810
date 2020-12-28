@@ -26,6 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All you need to know about Hoisting in Javascript](https://dev.to/kaustav1810/all-you-need-to-know-about-hoisting-in-javascript-4j6g)
 - [Beginners guide to programming](https://dev.to/kaustav1810/beginners-guide-to-programming-3aae)
 - [Building Projects vs Doing the next online course.What should You Do?](https://dev.to/kaustav1810/building-projects-vs-doing-the-next-online-course-what-should-you-do-1d9i)
 <!-- BLOG-POST-LIST:END -->
