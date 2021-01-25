@@ -1,5 +1,5 @@
-# [![Kaustav Banerjee header](./icons/banner.png)]
 
+<img src="./icons/banner.png" />
 ### Hi there, I'm Kaustav! I am a software engineer by day and like to build my own stuff by the night! 👋
 
 ### Connect with me:
@@ -39,6 +39,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Restaurant-review-website&theme=shades-of-purple)](https://github.com/kaustav1810)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810&theme=shades-of-purple)](https://github.com/kaustav1810)
 
-[website]: https://kaustav-blog.netlify.app/
+[website]: https://kaustav1810.netlify.app/
 [twitter]: https://twitter.com/kaustav1810
 [linkedin]: https://linkedin.com/in/kaustav1810
