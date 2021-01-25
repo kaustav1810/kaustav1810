@@ -4,11 +4,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kaustav1810.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="_blank"}
+[<img align="left" alt="kaustav1810.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="kaustav1810 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]{:target="_blank"}
+[<img align="left" alt="kaustav1810 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="kaustav1810 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]{:target="_blank"}
+[<img align="left" alt="kaustav1810 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
