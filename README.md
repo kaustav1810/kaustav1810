@@ -36,7 +36,7 @@
 ---
 
   [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars&theme=shades-of-purple)](https://github.com/kaustav1810)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Restaurant-review-website&theme=shades-of-purple)](https://github.com/kaustav1810)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=Restaurant-review-website&theme=shades-of-purple)](https://github.com/kaustav1810/Restaurant-review-website)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810&theme=shades-of-purple)](https://github.com/kaustav1810)
 
 [website]: https://kaustav1810.netlify.app/
