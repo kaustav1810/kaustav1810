@@ -1,6 +1,7 @@
 
 <img src="./icons/banner.png" />
-### Hi there, I'm Kaustav! I am a software engineer by day and like to build my own stuff by the night! 👋
+
+## Hi there, I'm Kaustav! I am a software engineer by day and like to build my own stuff by the night! 👋
 
 ### Connect with me:
 
