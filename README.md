@@ -1,45 +1,31 @@
+<h1 align="center">Hi 👋, I'm Kaustav</h1>
+<h3 align="center">A passionate web developer having a keen interest in frontend technologies</h3>
 
-<img src="./icons/banner.png" />
+- 🌱 I’m currently learning **ReactJS,Typescript**
 
-## Hi there, I'm Kaustav! I am a software engineer by day and like to build my own stuff by the night! 👋
+- 📫 How to reach me **kaustav123.kb@gmail.com**
 
-### Connect with me:
+- ⚡ Fun fact **I don't always write flawless code, but when I do, I'm asleep.**
 
-[<img align="left" alt="kaustav1810.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="kaustav1810 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="kaustav1810 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
-
-### 📕 Latest Blog Posts
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [All you need to know about Hoisting in Javascript](https://dev.to/kaustav1810/all-you-need-to-know-about-hoisting-in-javascript-4j6g)
-- [Beginners guide to programming](https://dev.to/kaustav1810/beginners-guide-to-programming-3aae)
-- [Building Projects vs Doing the next online course.What should You Do?](https://dev.to/kaustav1810/building-projects-vs-doing-the-next-online-course-what-should-you-do-1d9i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://kaustav-blog.netlify.app/blogs)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kaustav1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustav1810" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaustav1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustav1810" height="30" width="40" /></a>
+<a href="https://instagram.com/kaustav_1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustav_1810" height="30" width="40" /></a>
+<a href="https://medium.com/@kaustav123.kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaustav123.kb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaustav1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaustav1810" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaustavbanerjee/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaustavbanerjee/profile" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  [![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=kaustav1810&count_private=true&show_icons=true&hide=stars&theme=shades-of-purple)](https://github.com/kaustav1810)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kaustav1810&repo=JumboGPS&theme=shades-of-purple)](https://github.com/kaustav1810/JumboGPS)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav1810&theme=shades-of-purple)](https://github.com/kaustav1810)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustav1810&show_icons=true&locale=en&layout=compact" alt="kaustav1810" /></p>
 
-[website]: https://kaustav1810.netlify.app/
-[twitter]: https://twitter.com/kaustav1810
-[linkedin]: https://linkedin.com/in/kaustav1810
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav1810&show_icons=true&locale=en" alt="kaustav1810" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav1810" alt="kaustav1810" /></p>
