@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJS,Typescript**
 
-- 📫 How to reach me **kaustav123.kb@gmail.com**
+- 📫 Drop me a quick one liner @ **kaustav123.kb@gmail.com** to connect
 
-- ⚡ Fun fact **I don't always write flawless code, but when I do, I'm asleep.**
+- ⚡ Fun fact **I don't always write flawless code, but when I do, I'm usually asleep.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustav1810&show_icons=true&locale=en&layout=compact" alt="kaustav1810" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav1810&show_icons=true&locale=en" alt="kaustav1810" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav1810&show_icons=true&locale=en&hide=stars" alt="kaustav1810" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav1810" alt="kaustav1810" /></p>
