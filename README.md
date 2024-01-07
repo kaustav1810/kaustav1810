@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I don't always write flawless code, but when I do, I'm usually asleep.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
